@@ -1,0 +1,94 @@
+
+USCS – Universidade Municipal de São Caetano do Sul
+Curso: Análise e Desenvolvimento de Sistemas
+PIM
+
+Safe Class
+App para segurança e informação escolar
+
+
+
+Nome dos Integrantes do Grupo:
+
+Carlos Eduardo da Silva Adão	8141172
+Marcos Manoel Ferreira da Silva	0
+Marcos Paulo Ferreira Junior	8133560
+Samuel Victor Rodrigues dos Santos	8140061
+Thais de Amorim Guimarães	8141034
+Gabriel Casimiro Utino     	8138883
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+São Caetano do Sul
+2022
+SUMÁRIO
+Introdução	3
+1 - Descrição do problema	4
+2 - Ideação do produto 
+2.1 - Público alvo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução
+
+Com o avanço da tecnologia as pessoas têm procurado cada vez mais facilidades, seja no âmbito profissional ou pessoal. Uma das coisas que está cada vez mais comum é o uso de aplicativos para ajudar em tarefas que antes demandavam muito tempo ou eram complexas, como por exemplo, a assinatura de documentos,  a autorização para passeios escolares etc.
+As escolas  estão cada vez mais dependentes da tecnologia, possuindo  inúmeros processos que dependem da comunicação com os alunos., com relação a entrega de notas e faltas, ou com os responsáveis pelos alunos, como por exemplo, o calendário escolar,  sobre a saúde do aluno, reuniões, a dificuldade em se comunicar com os professores, entre outros.Por outro lado, a tecnologia já é uma realidade nas mãos dos estudantes, inclusive dentro das escolas.
+O objetivo  deste trabalho é criar uma plataforma unificada de informações, tanto para os estudantes quanto para as instituições de ensino, que permita que  o aluno visualize suas informações acadêmicas, permitindo a otimização de tempo, melhor organização com as agendas acadêmicas, uma melhor relação com os responsáveis, etc.
+Para detalhar mais todo o processo que levou a idealização desse projeto, no capítulo 1 será apresentado os problemas e dificuldades que nos levaram até essa ideia. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ainda hoje existem escolas do ensino fundamental que para o professor se comunicar com o responsável pelo aluno ele precisa escrever um recado no caderno dele na esperança de que o aluno irá mostrá-lo, ou então, se existe a intenção de fazer um passeio para um museu eles entregam um papel para o aluno entregar para os responsáveis e devolvê-lo assinado até uma data determinada para confirmar a sua presença. E isso faz com que a diretoria acabe gastando dinheiro com papel  Outro problema recorrente, principalmente em escolas maiores e do ensino médio, é manter o aluno na sala de aula, ou até mesmo dentro da escola em alguns casos.
+1 - Descrição do problema
+
+Ainda hoje algumas escolas continuam usando papel na comunicação com os responsáveis por passeios ou reuniões, e isso acarreta outros problemas, como por exemplo, a dependência da instituição de ensino tem que o aluno mostre o comunicado para os responsáveis ou até mesmo uma possível perda por parte dos professores. Outro ponto a ser levado em conta é o gasto com papel e tinta, além do tempo que é perdido durante esse processo.
+No ponto de vista dos alunos/responsáveis existem algumas dificuldades que poderiam ser facilmente solucionadas, como a entrega das notas, às vezes é preciso saber se será haverá a necessidade de fazer alguma atividade para melhorar a nota, e para isso ainda é necessário ir na secretaria ou esperar a aula daquela matéria específica.
+Já no ponto de vista do professor existe uma 
